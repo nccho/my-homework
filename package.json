@@ -1,0 +1,15 @@
+{
+  "name": "my-homework",
+  "version": "0.0.1",
+  "description": "숙제관리 프로그램",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "homework",
+    "plan"
+  ],
+  "author": "nccho",
+  "license": "ISC"
+}
